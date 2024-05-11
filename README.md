@@ -1,4 +1,4 @@
-[![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Satyam Pratibhan</h1>
 <h3 align="center">A passionate Tech Learner from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
