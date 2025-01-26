@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Portfolio Webiste.**
 
-- 🌱 I’m currently learning **React Native,DSA.**
+- 🌱 I’m currently learning **Devops.**
 
 - 👯 I’m looking to collaborate on **Different Bussiness.**
 
