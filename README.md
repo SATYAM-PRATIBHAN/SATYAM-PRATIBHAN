@@ -20,9 +20,8 @@
 - ⚡ Fun fact **coding is something anyone can do.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/s_pratibhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_pratibhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyam pratibhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam pratibhan" height="30" width="40" /></a>
 <a href="https://instagram.com/satyam_pratibhan.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_pratibhan.23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satyam_pratibhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyam_pratibhan" height="30" width="40" /></a>
 </p>
