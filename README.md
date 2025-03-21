@@ -26,8 +26,3 @@
 <a href="https://instagram.com/satyam_pratibhan.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_pratibhan.23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satyam_pratibhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyam_pratibhan" height="30" width="40" /></a>
 </p>
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-pratibhan&show_icons=true&locale=en" alt="satyam-pratibhan" /></p>
