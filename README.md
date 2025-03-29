@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-pratibhan&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-pratibhan" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Webiste.**
-
-- 🌱 I’m currently learning **Devops.**
+- 🌱 I’m currently learning **Web3.**
 
 - 👯 I’m looking to collaborate on **Different Bussiness.**
 
