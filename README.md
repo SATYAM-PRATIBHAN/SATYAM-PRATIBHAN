@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Pratibhan</h1>
 <h3 align="center">A passionate Tech Learner from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-pratibhan&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-pratibhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SATYAM-PRATIBHAN&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-pratibhan" /> </p>
 
 - 🌱 I’m currently learning **Web3.**
 
